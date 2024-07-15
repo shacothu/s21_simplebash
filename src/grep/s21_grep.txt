@@ -1,0 +1,11 @@
+../grep/test1.txt:1:Row 1 with text cat another text
+../grep/test1.txt:2:Row 2 with text cat
+../grep/test1.txt:3:Row 2.5 with text cat$
+../grep/test1.txt:4:Row 3 with text CAT another text
+../grep/test1.txt:5:ROW 4 with text CAT
+../grep/test1.txt:6:ROW 5 with text Cat
+../grep/test2.txt:1:Row 1 with text cat another text
+../grep/test2.txt:2:Row 2 with text cat
+../grep/test2.txt:3:Row 3 with text CAT another text
+../grep/test2.txt:4:ROW 4 with text CAT
+../grep/test2.txt:5:ROW 5 with text Cat
